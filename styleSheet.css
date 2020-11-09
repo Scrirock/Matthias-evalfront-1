@@ -1,19 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
-body, div, p{
+body, div{
     padding: 0;
     margin: 0;
     font-family: 'Roboto', sans-serif;
     color: white;
 }
 
+p{
+    padding: 0;
+    margin: 0;
+}
+
 a{
-    text-decoration: none;
     color: white;
-    font-size: 15px;
-    padding: 9px;
-    border: 2px solid white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #505050;
+}
+
+div:hover{
+    color: #505050;
 }
 
 .lien1{
@@ -21,7 +31,9 @@ a{
     display: inline-block;
     top: 50px;
     left: 30px;
-
+    font-size: 15px;
+    padding: 9px;
+    border: 2px solid white;
 }
 
 .lien2{
@@ -29,6 +41,9 @@ a{
     display: inline-block;
     top: 50px;
     left: 65px;
+    font-size: 15px;
+    padding: 9px;
+    border: 2px solid white;
 
 }
 
