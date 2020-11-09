@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body, div, p{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 9px;
+    border: 2px solid white;
+}
+
+.lien1{
+    position: relative;
+    display: inline-block;
+    top: 50px;
+    left: 30px;
+
+}
+
+.lien2{
+    position: relative;
+    display: inline-block;
+    top: 50px;
+    left: 65px;
+
+}
+
+.contour{
+    position: relative;
+    background-color: #d0d0d0;
+    height: 540px;
+    width: 870px;
+    left: 325px;
+    top: 75px;
+}
+
+.text{
+    background-color: #35bc7a;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 332px;
+    top: 21px;
+    left: 20px;
+}
+
+.titre{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    top: 27px;
+    left: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.phrase{
+    position: relative;
+    display: inline-block;
+    color: white;
+    font-size: 12px;
+    top: 33px;
+    left: 30px;
+    padding-right: 55px;
+}
+
+.profil{
+    background-color: #ff9e00;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    left: 16px;
+    top: 6px;
+}
+
+.pos{
+    position: relative;
+    top: 37px;
+    text-align: center;
+}
+
+.experience{
+    background-color: #1e8bc4;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    top: 171px;
+    left: -485px;
+}
+
+i.fas.fa-address-card{
+    font-size: 55px;
+}
+
+i.fas.fa-battery-three-quarters{
+    font-size: 55px;
+}
+
+i.fas.fa-book{
+    font-size: 55px;
+}
+
+i.far.fa-edit{
+    font-size: 55px;
+}
+
+i.fas.fa-plus{
+    font-size: 55px;
+}
+
+i.fas.fa-paper-plane{
+    font-size: 55px;
+}
+
+i.fas.fa-desktop{
+    font-size: 55px;
+}
+
+.education{
+    background-color: #f15a49;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    top: 171px;
+    left: -489px;
+}
+
+.blog{
+    background-color: #35bc7a;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    top: 4.66px;
+    left: 352px;
+}
+
+.socialMenu{
+    background-color: #f86925;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    top: 171px;
+    left: -149px;
+}
+
+.contact{
+    background-color: #1e8bc4;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    top: 171px;
+    left: -153px;
+}
+
+.portefolio{
+    background-color: #f86925;
+    position: relative;
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    top: 171px;
+    left: -157px;
+}
+
+.photo{
+    position: relative;
+    display: inline-block;
+    background-image: url("imageDroite.PNG");
+    width: 332px;
+    height: 498px;
+    top: -325px;
+    right: 20px;
+    float: right;
+}
