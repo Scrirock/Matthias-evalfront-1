@@ -41,8 +41,7 @@ a{
     width: 885px;
     height: 515px;
     padding-top: 20px;
-    margin-left: 20%;
-    margin-top: 3%;
+    margin: auto;
 }
 
 .phrase{
@@ -132,12 +131,6 @@ a{
 i.fas.fa-address-card, i.fas.fa-desktop, i.fas.fa-battery-three-quarters,
 i.fas.fa-book, i.far.fa-edit, i.fas.fa-plus, i.fas.fa-paper-plane{
     font-size: 55px;
-}
-
-@media screen and (max-width: 1110px){
-    .contour{
-        margin-left: 0;
-    }
 }
 
 @media screen and (max-width: 890px){
